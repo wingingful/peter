@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Kiat Boon;Tan;;;
-FN:Tan Kiat Boon
+N:Tan;Peter;;;
+FN:Peter Tan Kiat Boon
 ORG:CEPL;
 TITLE:Network Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:peter@cnpl.com.sg
